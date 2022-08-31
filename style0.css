@@ -1,0 +1,199 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+body{
+	font-family: lato;
+	background: gray;
+}
+.container{
+	width: 1354px;
+	min-height: 600px;
+	background:gray;
+	margin:auto;
+}
+
+.header{
+	width:1354px;
+	height: 70px;
+	background: #ffffff;
+}
+
+.header .one{
+	width:677px;
+	height: 70px;
+	float:left;
+	overflow:hidden;
+}
+.header .one .one-in{
+	padding-top:10px;
+	padding-left:20px;
+	
+}
+
+.header .two{
+	width:677px;
+	height: 70px;
+	overflow:hidden;
+}
+.header .two .two-in{
+	padding-top:30px;
+	padding-left:335px;
+	
+}
+.header .two .two-in ul li:hover a{
+	color: #10C9C3;
+}
+.header .two .two-in ul{
+	list-style: none;
+}
+
+.header .two .two-in ul li{
+	float: left;
+	padding-left: 15px;
+}
+
+.header .two .two-in ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+
+			/* middle */
+
+
+.middle{
+	width:1354px;
+	height: 640px;
+	background:#ffffff;
+}			
+
+
+.middle .top{
+	width:1354px;
+	height: 535px;
+	background:#F6F6F6;
+	
+}
+
+.middle .top .one{
+	width:677px;
+	height: 535px;
+	float:left;
+	overflow:hidden;
+	
+}
+.middle .top .one .one-in{
+	padding-top: 80px;
+	padding-left: 150px;
+}
+
+
+.middle .top .two{
+	width:677px;
+	height: 535px;
+	overflow:hidden;
+	
+}
+.middle .bottom{
+	width:1354px;
+	height: 100px;
+}
+
+.middle .bottom .one{
+	width:677px;
+	height: 100px;
+	float:left;
+	overflow:hidden;
+}
+.middle .bottom .one .one-in{
+	padding-top:45px;
+	padding-left:100px;
+}
+
+.middle .bottom .two{
+	width:677px;
+	height: 100px;
+	overflow:hidden;
+	
+}
+.middle .bottom .two .two-in{
+	padding-top:45px;
+	padding-left:420px;
+}
+
+
+
+
+
+			/* footer */
+
+
+.footer{
+	width: 1354px;
+	height:280px ;
+	background:#141414;
+	
+}
+
+.footer .footer-in{
+	color: #ffffff;
+	padding-top:100px;
+	padding-left:100px;
+	
+}
+
+.footer .footer-in .one{
+	width: 450px;
+	float: left;
+	overflow: hidden;
+}
+
+.footer .footer-in .two{
+	width: 300px;
+	float: left;
+	overflow: hidden;
+}
+.footer .footer-in .three{
+	width: 110px;
+	float: left;
+	overflow: hidden;
+}
+.footer .footer-in .four{
+	width: 190px;
+	float: left;
+	overflow: hidden;
+}
+.footer .footer-in .five{
+	overflow: hidden;
+}		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
